@@ -1,0 +1,23 @@
+.footer {
+  clear: both;
+  background: #373b44;
+  color: #999;
+  padding: 5px;
+  width: 100%;
+}
+.footer a {
+  text-decoration: none;
+  color: #999;
+}
+.footer a:hover {
+  color: #fff;
+}
+.footerinside {
+  margin: 0 auto;
+}
+.footertop {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
